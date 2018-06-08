@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chiropracteur Paris</title>
+    <link>https://mvaude.github.io/thg/</link>
+    <description>Recent content on Chiropracteur Paris</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mvaude.github.io/thg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://mvaude.github.io/thg/about/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mvaude.github.io/thg/about/</guid>
+      <description>Présentation Dans notre monde moderne, de l’immédiat, du rentable, de l’efficace, du résultat, si traiter l’urgence d’une douleur sciatique ou crurale, d’un torticolis, de céphalées, de vertiges, de douleurs intercostales, etc. est son quotidien, son souci premier reste la prévention, car elle seule est pour lui la clef d’une santé durable.
+Thierry Ginestet propose ainsi son expertise pour redonner à chacun, quand cela est possible, équilibre et énergie.
+Le chiropracteur est là pour vous aider à mieux comprendre votre corps, à identifier pourquoi des douleurs apparaissent et surtout comment ensemble nous pouvons les corriger.</description>
+    </item>
+    
+  </channel>
+</rss>
