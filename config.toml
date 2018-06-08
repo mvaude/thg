@@ -1,0 +1,63 @@
+## Basic Configuration
+
+baseurl = "https://mvaude.github.io/thg" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Thierry Ginestet"
+title = "Chiropracteur Paris"
+
+theme = "goa"
+
+## Hugo Built-in Features
+# disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+# googleAnalytics = "XYZ"
+enableRobotsTXT = false
+
+## Site Settings
+[params]
+author = "Thierry Ginestet"
+intro = "Chiropracteur installé dans le 7ème arrondissement de Paris depuis 1992."
+description = "Aujourd'hui, 25 ans et 50 000 visites plus tard, <br/>il exerce avec autant de passion qu'aux premiers jours."
+authorimage = "headshot.jpg"
+dateformat = "2 Jan 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Chiropracteur Paris"
+keywords = "chiropracteur,paris"
+
+## Social Accounts
+[params.social]
+# github = "<username>"
+# instagram = "<username>"
+# xing = "<username>"
+# linkedin = "<username>"
+# twitter = "<username>"
+# facebook = "<username>"
+# google = "<username>"
+# stackoverflow = "<username>"
+email = "you@example.com"
+
+## Extras
+[params.extra]
+copyright = "© 2018. Thierry Ginestet. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = false
+highlightjs = false
+
+## Main Menu
+[[menu.main]]
+    name = "À Propos"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
+[[menu.main]]
+    name = "Prendre un RDV"
+    identifier = "coderag"
+    weight = 300
+    url = "https://vaude.youcanbook.me"
