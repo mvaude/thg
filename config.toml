@@ -24,7 +24,7 @@ enableRobotsTXT = false
 author = "Thierry Ginestet"
 intro = "Chiropracteur installé dans le 7ème arrondissement de Paris depuis 1992."
 description = "Aujourd'hui, 25 ans et 50 000 visites plus tard, <br/>il exerce avec autant de passion qu'aux premiers jours."
-authorimage = "headshot.jpg"
+authorimage = "headshot_thg.jpg"
 dateformat = "2 Jan 2006"
 
 ## Site Meta Settings
